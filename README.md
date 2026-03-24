@@ -17,11 +17,13 @@ Product manager, indie maker, and relentless problem-solver. I started my career
 
 ## The journey so far
 
-- 🧪 &nbsp;Started in QA — obsessed with breaking things before users did
-- 💻 &nbsp;Self-taught developer → Senior Engineer
-- 📦 &nbsp;Crossed over to product management
-- 🚀 &nbsp;Co-founded a fintech startup
-- 🤖 &nbsp;Now building AI-first indie projects
+- 🧪 Started in QA. Found bugs. Found more bugs. Occasionally, found features.
+- 💻 Kept staring across the office at the devs. Looked cooler. Taught myself to code. Turns out they were just debugging.
+- 📦 Gossiped too much with PMs. Got promoted into the gossip.
+- 🚀 Shipped the first customer-facing website for a YC startup. No pressure.
+- 💸 Co-founded a fintech startup. Cried a lot. Survived to tell the tale.
+- 🗣️ Launched new products at Babbel. 
+- 🤖 Now building AI-first indie projects. Svratching my real-life itch.
 
 ---
 
