@@ -1,6 +1,6 @@
 # Hey, I'm Sanjeev 👋
 
-Product manager, indie maker, and relentless problem-solver. I started my career in QA, taught myself to code, climbed to senior developer, then got way too excited about product and crossed over to PM. Along the way I co-founded a fintech startup. These days I build AI-first indie projects — shipping things that scratch real itches.
+Product manager, indie maker, and problem-solver. This is a place where I experiment with various ideas and create prototypes.
 
 ---
 
