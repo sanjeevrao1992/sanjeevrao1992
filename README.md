@@ -10,7 +10,7 @@ Product manager, indie maker, and problem-solver. This is a place where I experi
 |---------|-------------|-------|
 | [Doc Whisperer](https://github.com/sanjeevrao1992/Doc-Whisperer) | Upload or paste any document and get structured AI-powered feedback | React · TypeScript · AI |
 | [Trip Planner](https://github.com/sanjeevrao1992/Trip-Planner) | Collaborative trip planning with maps, invites, and AI recommendations | React · TypeScript · Supabase · Google Maps |
-| [Where my Döner at?](https://github.com/sanjeevrao1992/Where-my-Doner-at) | Find the best döner spots near you in Berlin 🥙 | JavaScript |
+| [Where my Döner at?](https://github.com/sanjeevrao1992/Where-my-Doner-at) | Life's too short to have bad Doners. Find the best döner spots near you in Berlin 🥙 | JavaScript |
 | [Personal OS](https://github.com/sanjeevrao1992/personalOS) | Experimenting with AI as a personal productivity layer | — |
 
 ---
