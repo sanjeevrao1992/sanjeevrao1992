@@ -1,6 +1,6 @@
 # Hey, I'm Sanjeev 👋
 
-Product manager, indie maker, and problem-solver. This is a place where I experiment with various ideas and create prototypes.
+Product manager, indie product builder, and problem-solver. This is a place where I experiment with various ideas and create prototypes.
 
 ---
 
